@@ -1,0 +1,5 @@
+Required Render environment variable names (keep values private):
+SUPABASE_URL
+SUPABASE_PUBLISHABLE_KEY
+SUPABASE_SECRET_KEY
+AFP_BUILD_ID=v3.60.20
